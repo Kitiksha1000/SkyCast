@@ -24,7 +24,7 @@ SkyCast is a machine learning project designed to predict the outcome of space m
   * Logistic Regression
   * K-Nearest Neighbors (KNN)
 
-4. Hyperparameter Tuning (HPT): Performed hyperparameter tuning (HPT) on several models:
+3. Hyperparameter Tuning (HPT): Performed hyperparameter tuning (HPT) on several models:
 
 * Random Forest Classifier: Achieved an F1-score of 0.948.
 * XGBoost: Achieved the best performance with an F1-score of 0.952.
