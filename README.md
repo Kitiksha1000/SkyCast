@@ -76,7 +76,7 @@ app.py                  # Gradio app
 model2.pkl              # Saved XGBoost model  
 pipeline.pkl            # Preprocessing pipeline  
 requirements.txt        # Dependencies  
-screenshots/            # Screenshots of app  
+Screenshot 2025-04-07 021359.png          # Screenshots of app  
 recordings/             # Screen recording (optional)  
 README.md               # Project overview  
 
