@@ -68,7 +68,6 @@ And receive an instant "Yes/No" prediction on mission success.
 
 Note: App was built using Gradio and tested locally in Google Colab. It can also be deployed on Hugging Face Spaces for public sharing.
 
----
 
 ## 📁 Project Structure
 
@@ -80,7 +79,6 @@ Screenshot 2025-04-07 021359.png          # Screenshots of app
 recordings/             # Screen recording (optional)  
 README.md               # Project overview  
 
----
 
 ## 🪄 Steps to Reproduce Locally
 
@@ -90,19 +88,16 @@ README.md               # Project overview
 3. Run the app:
    python app.py
 
----
 
 ## 🖼️ Screenshot of Gradio Interface
 
-![Gradio Interface Screenshot](images%20and%20videos/gradio_demo_ss.png)
+![Gradio Interface Screenshot](Screenshot%202025-04-07%20021359.png)
 
----
 
 ## 🎥 Screen Recording of App in action
 
-[▶️ Click here to watch the demo video](images%20and%20videos/gradio_demo_video.mp4)
+[▶️ Click here to watch the demo video](Space%20Mission%20Outcome%20Predictor%20-%20Brave%202025-04-07%2002-07-22.mp4)
 
----
 
 ## 🧠 Tech Stack
 
