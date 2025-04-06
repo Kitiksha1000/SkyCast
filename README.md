@@ -92,17 +92,15 @@ README.md               # Project overview
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Screenshot of Gradio Interface
 
-Add screenshots of your Gradio UI here  
-(Place them in the /screenshots folder)
+![Gradio Interface Screenshot](images%20and%20videos/gradio_demo_ss.png)
 
 ---
 
-## 🎥 Screen Recording
+## 🎥 Screen Recording of App in action
 
-Upload a short demo of your Gradio UI interaction  
-(Place it in the /recordings folder)
+[▶️ Click here to watch the demo video](images%20and%20videos/gradio_demo_video.mp4)
 
 ---
 
